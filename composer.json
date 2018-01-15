@@ -1,0 +1,13 @@
+{
+    "name": "crlt/mp4-proxy",
+    "description": "a mp4 proxy",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "crlt",
+            "email": "nealse.zh@gmail.com"
+        }
+    ],
+    "require": {}
+}
