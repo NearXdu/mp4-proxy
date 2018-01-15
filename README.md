@@ -8,7 +8,7 @@ composer require crlt/mp4-proxy
 
 ## Usage
 ```php
-<?
+<?php
 require_once "vendor/autoload.php";
 use Crlt_\Mp4Proxy\mp4Proxy;
 $url = $_GET['url'];
