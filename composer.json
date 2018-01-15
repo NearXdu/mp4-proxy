@@ -1,13 +1,18 @@
 {
-    "name": "crlt/mp4-proxy",
-    "description": "a mp4 proxy",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "crlt",
-            "email": "nealse.zh@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "crlt/mp4-proxy",
+  "description": "a mp4 proxy",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "crlt",
+      "email": "nealse.zh@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Crlt_\\Mp4Proxy\\": "src"
+    }
+  },
+  "require": {}
 }
